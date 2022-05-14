@@ -1,7 +1,5 @@
-# eurovision-bingo
-Bingo board for Eurovision Song Contest
+# gordon-ramsay-bingo
 
-Created for HackerSpaceSG Eurovision Song Contest event 2015.
-Updated for HackerSpaceSG Eurovision Song Contest event 2016.
+Bingo board for various Gordon Ramsay starring TV shows.
 
 Please contribute any tropes you deem worthy.
